@@ -1,40 +1,36 @@
 # Devcon Machine Learning Workshop
 
 Requirements:
-  * Basic Knowledge of Linear Algebra
   * Basic Knowledge of Calculus
-  * IDE/Text editor
-  * Python 3
-  * Tensorflow version 1.2
-  * Keras 2.0 above
-
-
+  * Basic Knowledge of Python Programming Language
 
 Don't worry if you don't meet all requirements above :) 
 
-### TBD
+### Before we start, install tensorflow first. 
 
-Before we start, lets setup all the required libraries
+```
+https://www.tensorflow.org/install/
+```
+
+### Then install required libraries 
+```
 pip3 install -r requirements.txt
+````
 
-Install Tensorflow
-www.tensorflow.com
+### Change Keras backend to Tensorflow
+```
+https://keras.io/backend/
+```
 
-Agenda:
-TBD
-
+### Lets Get Started
+Run following code in your terminal
 ```
 jupyter notebook 
 ```
 
-Here is an overview of what we are going to cover:
+Workshop Objective:
+- Sloving classification problem using supervise machine learning and deep learning algorithm 
 
--  Installing the Python and required libraries.
--  Loading the dataset.
--  Summarizing the dataset.
--  Visualizing the dataset.
--  Evaluating some algorithms.
--  Making some predictions.
 
 A machine learning project may not be linear, but it has a number of well known steps:
 
@@ -44,22 +40,26 @@ A machine learning project may not be linear, but it has a number of well known 
 4. Improve Results.
 5. Present Results.
 
+Here is an overview of what we are going to cover:
+
+-  Loading the dataset.
+-  Summarizing the dataset.
+-  Visualizing the dataset.
+-  Evaluating some algorithms.
+-  Making some predictions.
 
 
-
-Objective:
-- Classification problem
-- Supervised Learning
-
-Dataset used:
+### Dataset used:
 
 Machine Learning:
-Tutorial - Iris dataset
-Handson  - Titanic dataset
 
+-  Tutorial: Iris dataset
+-  Handson: Titanic dataset
+ 
 Deep Learning (CNN): 
-Tutorial - Cat and Dog 
-Handson  - Malaysian Foods 
+-  Tutorial:  MNIST (Handwritten dataset)
+-  Tutorial:  Cat and Dog 
+-  Handson :  Malaysian Foods 
 
 
 
