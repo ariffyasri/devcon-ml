@@ -11,6 +11,15 @@ Don't worry if you don't meet all requirements above :)
 ```
 https://www.tensorflow.org/install/
 ```
+### Install Git
+```
+https://git-scm.com/downloads
+```
+
+### Clone this repo
+```
+git clone https://github.com/jackg0h/devcon-ml
+```
 
 ### Then install required libraries 
 ```
