@@ -1,0 +1,35 @@
+
+
+http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
+https://www.youtube.com/watch?v=wvsE8jm1GzE
+
+1) What is machine learning?
+
+2) Nature of Data
+
+3) Equation of a line (y = mx + c)
+
+4) Neuron/Perceptron
+
+5) Example from the tensorflow website
+
+6) Forward-propagation
+
+7) Backward-propagation
+7.1) Gradient-Descent
+
+8) Hyperparameters
+
+
+Convolutional Neural Network
+
+https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8
+
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
+https://www.youtube.com/watch?v=AgkfIQ4IGaM
+
+
+Wrap-up
+
+https://www.youtube.com/watch?v=3JQ3hYko51Y
