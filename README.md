@@ -20,6 +20,10 @@ https://git-scm.com/downloads
 ```
 git clone https://github.com/jackg0h/devcon-ml
 ```
+## Cd into the folder
+```
+cd devcon-ml
+```
 
 ### Then install required libraries 
 ```
